@@ -1,6 +1,5 @@
 #!/bin/sh
 ## V.1.0
-# @smiro2000
 
 if [ $1 ]
   then
